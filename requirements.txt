@@ -1,6 +1,0 @@
-streamlit
-requests
-python-dotenv
-openai
-folium
-streamlit-folium
